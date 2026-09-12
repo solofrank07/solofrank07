@@ -48,20 +48,14 @@ Me considero una persona interesada en seguir aprendiendo, mejorar constantement
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SoloFrank07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=es" alt="Estadísticas de GitHub de SoloFrank07" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoloFrank07&layout=compact&theme=tokyonight&langs_count=8&locale=es" alt="Lenguajes más utilizados" />
+  <img height="180em" src="./profile/stats.svg" alt="Estadísticas de GitHub de solofrank07" />
+  <img height="180em" src="./profile/top-langs.svg" alt="Lenguajes más utilizados" />
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoloFrank07&theme=tokyonight&locale=es" alt="Racha de contribuciones" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=SoloFrank07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trofeos de GitHub" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=solofrank07&theme=tokyonight&locale=es&short_numbers=true" alt="Racha de contribuciones" />
 
 </div>
 
